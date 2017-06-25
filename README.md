@@ -30,8 +30,7 @@ chmod +x install
 ./install
 
 
-#مطور السورس
+مطور السورس
 #@IIBOOSII
-
-#قنات البوت
+قناة البوت
 #IIBOOS2II
