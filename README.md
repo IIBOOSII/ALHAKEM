@@ -28,6 +28,7 @@ cd ALHAKEM
 chmod +x install
 
 ./install
+./run.sh
 
 
 مطور السورس
