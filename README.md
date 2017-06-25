@@ -28,8 +28,8 @@ cd ALHAKEM
 chmod +x install
 
 ./install
-./run.sh
 
+وراهه ادوس y وانتر وبعدسين اتروح ع ملف اسمه bot وراهه كونفج .اتخلي ايديك وايدي بوتك وسوي رن من ملف الرن./run.sh
 
 مطور السورس
 #@IIBOOSII
