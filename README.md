@@ -28,3 +28,10 @@ cd ALHAKEM
 chmod +x install
 
 ./install
+
+
+#مطور السورس
+#@IIBOOSII
+
+#قنات البوت
+#IIBOOS2II
